@@ -10,7 +10,6 @@ setup(
     license='BSD',
     packages=['bluebird', 'bluebird.thrift_kestrel'],
     install_requires=[
-      'nydus >= 0.10.0',
       'thrift >= 0.9.0',
     ],
     classifiers=[

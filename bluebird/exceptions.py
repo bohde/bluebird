@@ -1,0 +1,3 @@
+
+class NoneFound(Exception):
+    pass
